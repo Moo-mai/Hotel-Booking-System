@@ -21,3 +21,6 @@ A web-based hotel booking system that allows users to view available rooms, chec
 2. Place the project folder in your server directory (e.g., htdocs for XAMPP)
 3. Start Apache and MySQL
 4. Open the project in a browser
+
+##👤 Author
+Developed by **Moo-mai**
